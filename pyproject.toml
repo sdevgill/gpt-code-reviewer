@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "gpt-code-reviewer"
 version = "0.1.0"
-description = "GPT Code Reviewer"
+description = "GPT Interactive Code Reviewer"
 authors = ["Dev Gill <26435947+sdevgill@users.noreply.github.com>"]
 license = "MIT"
 readme = "README.md"
